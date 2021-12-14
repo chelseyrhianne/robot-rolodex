@@ -1,0 +1,17 @@
+.search {
+  -webkit-appearance: none;
+  border: none;
+  outline: 2px solid #10fe4c;
+  background: none;
+  padding: 10px;
+  width: 150px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  color: #10fe4c;
+  font-family: "Roboto Mono", monospace;
+}
+
+.search::placeholder {
+  color: #10fe4c;
+  font-family: "Roboto Mono", monospace;
+}
